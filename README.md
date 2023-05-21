@@ -5,7 +5,7 @@ This is easily one of my favorite Javascript tools because it is so helpful for 
 \
 **With helper text in each form field the user understands what type of data is needed. The red asterisk signals which form field inputs are required to submit. The green success checkmarks 
 let user know they entered their data correctly. Lastly, the red error messages not only inform the data input was incorrect, it tells user how to enter it correctly. This is one of my FAVORITE projects as this is work I knew my focus was with helping BOTH the user with help filling out the form while structuring the data input so that it is received in helpful
-format for the data engineers, analysts, etc who will use this data.** 
+format for the programmers, data engineers, data analysts, etc who will use this data.** 
 \
 \
 \
