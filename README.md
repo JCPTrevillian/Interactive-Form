@@ -1,7 +1,7 @@
-# Interactive-Form  
-**HTML | CSS | JAVASCRIPT** 
-
-# Form with validation 
+# Interactive-Form  HTML | CSS | jAVASCRIPT 
+\
+\
+# Form with validation, conditionals, regex  
 \
 \
 **HTML and CSS made this minimal form look simple, yet Javascript does the heavy lifting behind the scenes with regex and conditionals (if, then). 
@@ -9,8 +9,8 @@ This is easily one of my favorite Javascript tools because it is so helpful for 
 \
 \
 **With helper text in each form field the user understands what type of data is needed. The red asterisk signals which form field inputs are required to submit. The green success checkmarks 
-let user know they entered their data correctly. Lastly, the red error messages not only inform the data input was incorrect, it tells user how to enter it correctly. This is one of my FAVORITE projects as this is work I knew my focus was with helping BOTH the user with help filling out the form while structuring the data input so that it received is in usable
-format for the data engineers, analysts, etc who will use the data.** 
+let user know they entered their data correctly. Lastly, the red error messages not only inform the data input was incorrect, it tells user how to enter it correctly. This is one of my FAVORITE projects as this is work I knew my focus was with helping BOTH the user with help filling out the form while structuring the data input so that it is received in helpful
+format for the data engineers, analysts, etc who will use this data.** 
 \
 \
 \
@@ -26,7 +26,7 @@ format for the data engineers, analysts, etc who will use the data.**
 ![required red asterisk](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/1ec2d836-07cc-4881-a1d9-1c481fabb8e5)
 \
 \
-**Color: Red for error messages or Green for check mark circle in style.css**
+**Color: Red for error messages and Green for check mark circle in style.css**
 \
 \
 ![red:green for error:ok messages](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/1d3588ff-331d-4e6e-b089-0178aefb6571)
@@ -38,7 +38,7 @@ format for the data engineers, analysts, etc who will use the data.**
 ![css red asterisk](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/642c87fe-b4dd-4863-968f-4c04a2a1ba03)
 \
 \
-**Alt red asterisk (local) in case I wanted to display it in a few of the form fields** 
+**Alt red asterisk (locally) in case I wanted to display it in a few of the form fields** 
 \
 \
 ![Alt- local red asterisk ](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/85672214-ba0b-4e15-8edb-fde67cd95a21)
