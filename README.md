@@ -1,4 +1,4 @@
-# Interactive-Form    HTML | CSS | JAVASCRIPT 
+# Interactive-Form   
 **HTML and CSS made this minimal form look simple, yet Javascript does the heavy lifting behind the scenes with regex and conditionals (if, then). 
 This is easily one of my favorite Javascript tools because it is so helpful for users to understand how you need their data input entered.** 
 \
