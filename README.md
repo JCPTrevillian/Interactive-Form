@@ -1,7 +1,5 @@
-# Interactive-Form  HTML | CSS | jAVASCRIPT 
-\
-\
-# Form with validation, conditionals, regex  
+# Interactive-Form  HTML | CSS | JAVASCRIPT 
+\  
 \
 \
 **HTML and CSS made this minimal form look simple, yet Javascript does the heavy lifting behind the scenes with regex and conditionals (if, then). 
