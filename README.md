@@ -27,13 +27,13 @@ format for the data engineers, analysts, etc who will use this data.**
 ![red:green for error:ok messages](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/1d3588ff-331d-4e6e-b089-0178aefb6571)
 \
 \
-**Red asterisk (globally)in style.css**
+**Red asterisk (globally)in style.css - ::after is to place it after label input group (ie: NAME on form)**
 \
 \
 ![css red asterisk](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/642c87fe-b4dd-4863-968f-4c04a2a1ba03)
 \
 \
-**Alt red asterisk (locally) in case I wanted to display it in a few of the form fields** 
+**Alt red asterisk (locally) in case I wanted to display it in a few of the form fields - it appears after the entire input line** 
 \
 \
 ![Alt- local red asterisk ](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/85672214-ba0b-4e15-8edb-fde67cd95a21)
@@ -55,10 +55,22 @@ format for the data engineers, analysts, etc who will use this data.**
 **NAME FORM FIELD**
 \
 \
-**Name is required: prevents user submission without information on required areas of form**
+**Name is required: prevents user submission without information on required areas of form **
 \
 \
 ![name is required](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/998e4b85-0ee0-475d-a56f-d49e2cd13981)
+\
+\
+**index.html**
+\
+\
+![html name](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/b2279404-945b-4c48-acbf-fb7b5fca1e46)
+\
+\
+**script.js**
+\
+\
+![js name](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/53b18eec-0782-443b-ae36-913a905e40f9)
 \
 \
 **Regex criteria not met so error with helper message triggered: "Enter full name"**
