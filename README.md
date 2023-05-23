@@ -15,7 +15,7 @@ format for the programmers, data engineers, data analysts, etc who will use this
 ![form final](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/78ccd749-4af2-40ec-92f1-b58b980f7e73)
 \
 \
-**Form untouched - note the helper text in the form fields and the red asterisk before user starts input** 
+**Form untouched by user - note the helper text in the form fields and the red asterisk before user starts input** 
 \
 \
 ![required red asterisk](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/1ec2d836-07cc-4881-a1d9-1c481fabb8e5)
@@ -27,10 +27,22 @@ format for the programmers, data engineers, data analysts, etc who will use this
 ![red:green for error:ok messages](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/1d3588ff-331d-4e6e-b089-0178aefb6571)
 \
 \
+**Red Asterisk (globally in style.css- ::before is to place it before the input label group (ie: NAME on form)**
+\
+\
+![before](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/1850875f-0c03-4d31-a8eb-eeac43de7dc6)
+\
+\
+![interactive_form ](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/5ffd5059-1f27-4ea1-b1cc-4f499e84217c)
+\
+\
 **Red asterisk (globally)in style.css - ::after is to place it after label input group (ie: NAME on form)**
 \
 \
 ![css red asterisk](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/642c87fe-b4dd-4863-968f-4c04a2a1ba03)
+\
+\
+![after](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/807c2cbc-989b-48df-b4c7-6f209d831760)
 \
 \
 **Alt red asterisk (locally) in case I wanted to display it in a few of the form fields - it appears after the entire input line** 
