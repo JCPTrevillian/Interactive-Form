@@ -43,7 +43,7 @@ format for the programmers, data engineers, data analysts, etc who will use this
 ![css red asterisk](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/642c87fe-b4dd-4863-968f-4c04a2a1ba03)
 \
 \
-![after](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/12729ff6-6ea8-4444-97ff-7b52aa901ade)
+![after](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/7ed1ac42-c11d-4d6e-b97d-d3bd24999521)
 \
 \
 **Alt red asterisk (locally) in case I wanted to display it in a few of the form fields - it appears after the entire input line** 
