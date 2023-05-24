@@ -34,7 +34,7 @@ format for the programmers, data engineers, data analysts, etc who will use this
 ![before](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/1850875f-0c03-4d31-a8eb-eeac43de7dc6)
 \
 \
-![before](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/1de1679e-3b04-43fa-b697-8f9a7ab26ee2)
+![a](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/54b849ef-d1c1-4e77-877b-64d7a9df83d4)
 \
 \
 **Red asterisk (globally)in style.css - ::after is to place it after label input group (ie: NAME on form)**
@@ -43,7 +43,7 @@ format for the programmers, data engineers, data analysts, etc who will use this
 ![css red asterisk](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/642c87fe-b4dd-4863-968f-4c04a2a1ba03)
 \
 \
-![after](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/0f739126-0b72-4be6-8695-930aff16566d)
+![after](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/12729ff6-6ea8-4444-97ff-7b52aa901ade)
 \
 \
 **Alt red asterisk (locally) in case I wanted to display it in a few of the form fields - it appears after the entire input line** 
