@@ -12,13 +12,14 @@ format for the programmers, data engineers, data analysts, etc who will use this
 **Form Rendering** 
 \
 \
-![form final](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/78ccd749-4af2-40ec-92f1-b58b980f7e73)
+![form rendering](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/13501d52-50a1-4297-a390-734db46860c0)
+
 \
 \
 **Form untouched by user - note the helper text in the form fields and the red asterisk before user starts input** 
 \
 \
-![required red asterisk](https://github.com/JCPTrevillian/form_w_validation/assets/95890754/1ec2d836-07cc-4881-a1d9-1c481fabb8e5)
+![a](https://github.com/JCPTrevillian/Interactive-Form/assets/95890754/55220c3c-a33c-4b8c-8bf6-3c394f96f735)
 \
 \
 **Color: Red for error messages and Green for check mark circle in style.css**
