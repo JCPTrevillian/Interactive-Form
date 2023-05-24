@@ -21,7 +21,7 @@
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
     position: relative;
 }
-.fa-paper-plane{
+.fa-envelope{
     position: absolute;
     top: 0;
     left: 50%;
@@ -42,7 +42,7 @@
 .input-group label{
     flex-basis: 28%;
 } 
-.input-group label::after {
+.input-group label::before {
     content: "*";
     color: red;
   }   
